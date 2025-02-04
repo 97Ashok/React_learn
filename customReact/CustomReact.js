@@ -36,4 +36,6 @@ function customRender(reactElement, mainContainer) {
         
     }
    }
+
+   mainContainer.appendChild(domElement)
 }
